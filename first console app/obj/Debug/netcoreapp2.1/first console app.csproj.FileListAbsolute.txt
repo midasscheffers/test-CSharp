@@ -1,0 +1,11 @@
+D:\Documents\coder\C#\console\first console app\first console app\bin\Debug\netcoreapp2.1\first console app.deps.json
+D:\Documents\coder\C#\console\first console app\first console app\bin\Debug\netcoreapp2.1\first console app.runtimeconfig.json
+D:\Documents\coder\C#\console\first console app\first console app\bin\Debug\netcoreapp2.1\first console app.runtimeconfig.dev.json
+D:\Documents\coder\C#\console\first console app\first console app\bin\Debug\netcoreapp2.1\first console app.dll
+D:\Documents\coder\C#\console\first console app\first console app\bin\Debug\netcoreapp2.1\first console app.pdb
+D:\Documents\coder\C#\console\first console app\first console app\obj\Debug\netcoreapp2.1\first console app.csprojAssemblyReference.cache
+D:\Documents\coder\C#\console\first console app\first console app\obj\Debug\netcoreapp2.1\first console app.csproj.CoreCompileInputs.cache
+D:\Documents\coder\C#\console\first console app\first console app\obj\Debug\netcoreapp2.1\first console app.AssemblyInfoInputs.cache
+D:\Documents\coder\C#\console\first console app\first console app\obj\Debug\netcoreapp2.1\first console app.AssemblyInfo.cs
+D:\Documents\coder\C#\console\first console app\first console app\obj\Debug\netcoreapp2.1\first console app.dll
+D:\Documents\coder\C#\console\first console app\first console app\obj\Debug\netcoreapp2.1\first console app.pdb
